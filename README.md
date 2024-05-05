@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oktvindh&color=blueviolet&style=flat-square&label=Visitor+counter" alt="oktvindh" /> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=oktvindh&show_icons=true&hide_border=true&theme=nightowl" alt="oktvindh"/> </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktvindh&layout=compact&theme=nightowl" alt="oktvindh"/> </p>
-<p align="left"><img src="https://gitwar.herokuapp.com/badge?username=oktvindh&label=Gitwar%20Profile%20Score&style=for-the-badge&color=blueviolet" alt="oktvindh"/> </p>
+<!-- <p align="left"><img src="https://gitwar.herokuapp.com/badge?username=oktvindh&label=Gitwar%20Profile%20Score&style=for-the-badge&color=blueviolet" alt="oktvindh"/> </p> -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=oktvindh&label=PROFILE+VIEWS" alt="oktvindh"/> </p>
